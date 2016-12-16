@@ -68,7 +68,7 @@ public class NewAdvertisement {
         ClearFieldAndInputNewValue(PersonField, person);
         ClearFieldAndInputNewValue(MobileField, mobile);
 
-//        PostAdvButton.click();
+        PostAdvButton.click();
 
     }
 
